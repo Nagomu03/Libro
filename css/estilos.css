@@ -21,7 +21,9 @@ h1{
     font-size: 27px;
 }
 .div4{
-
+    margin: 2% 20% 0 20%;
+    text-align: center;
+    font-size: 27px;
 }
 img{
     width: 20%;
@@ -29,4 +31,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     margin-top: 3%;
+}
+.enlace{
+text-decoration: none;
 }
